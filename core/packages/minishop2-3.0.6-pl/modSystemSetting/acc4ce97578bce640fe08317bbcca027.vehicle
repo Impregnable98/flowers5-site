@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'minishop2',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'af0762558a3b5f2ff34be813e8e998ec',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'acc4ce97578bce640fe08317bbcca027',
+  'native_key' => 'ms2_tmp_storage',
+  'object' => '{"key":"ms2_tmp_storage","value":"session","xtype":"textfield","namespace":"minishop2","area":"ms2_main","editedon":"2022-07-03 09:17:53"}',
+);
